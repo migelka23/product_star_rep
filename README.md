@@ -1,3 +1,5 @@
 # product_star_rep
 a = 5
-a = 6
+b = 6
+
+sum(a,b)
